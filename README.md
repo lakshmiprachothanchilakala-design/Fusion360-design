@@ -19,3 +19,6 @@
 
 ## Day 7 Bike Handlebar grip:
 [View 3D Design in Autodesk Fusion](https://a360.co/47Cfsv1)
+
+## Day 8 Rubber Doorstop:
+[View 3D Design in Autodesk Fusion](https://a360.co/4bWUBnq)
