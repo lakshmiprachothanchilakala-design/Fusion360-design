@@ -25,3 +25,6 @@
 
 ## Day 9 Light bulb:
 [View 3D Design in Autodesk Fusion](https://a360.co/4scKQre)
+
+## Day 10 Phone Case:
+[View 3D Design in Autodesk Fusion](https://a360.co/41Nmk5e)
