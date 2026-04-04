@@ -22,3 +22,6 @@
 
 ## Day 8 Rubber Doorstop:
 [View 3D Design in Autodesk Fusion](https://a360.co/4bWUBnq)
+
+## Day 9 Light bulb:
+[View 3D Design in Autodesk Fusion](https://a360.co/4scKQre)
