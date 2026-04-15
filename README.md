@@ -28,3 +28,6 @@
 
 ## Day 10 Phone Case:
 [View 3D Design in Autodesk Fusion](https://a360.co/41Nmk5e)
+
+## Mount(with the measurements i got from online i was able to try this design):
+[View 3D Design in Autodesk Fusion](https://a360.co/4ce7tqL)
